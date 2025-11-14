@@ -5,6 +5,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "backend": "file:.."
+    "backend": "file:..",
+    "vite": "^7.2.2"
   }
 }
