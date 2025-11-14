@@ -9,6 +9,7 @@
     "@vitejs/plugin-react": "^5.1.1",
     "backend": "file:..",
     "lucide-react": "^0.553.0",
+    "react-router-dom": "^7.9.6",
     "react-toastify": "^11.0.5",
     "vite": "^7.2.2"
   }

@@ -1029,7 +1029,7 @@ export default function VapiVoiceCaller() {
             <Phone size={20} />
             Single Call
           </button>
-          <buttont
+          <button
             className="tab-button"
             style={{
               ...styles.tab,
@@ -1039,7 +1039,7 @@ export default function VapiVoiceCaller() {
           >
             <Upload size={20} />
             Campaign
-          </buttont>
+          </button>
           <button
             className="tab-button"
             style={{
