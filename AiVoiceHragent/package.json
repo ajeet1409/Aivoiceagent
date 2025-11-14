@@ -5,6 +5,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
     "backend": "file:..",
     "vite": "^7.2.2"
   }
