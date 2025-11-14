@@ -61,8 +61,8 @@ export default function VapiVoiceCaller() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   // Refs
-  const canvasRef = useRef(null);
   const fileInputRef = useRef(null);
+  const canvasRef = useRef(null);
 
   // ============================================
   // API CONFIGURATION
